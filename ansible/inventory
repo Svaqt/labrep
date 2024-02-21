@@ -1,0 +1,2 @@
+[dev]
+dev ansible_host=10.166.0.5 ansible_user=vadim_lnrd ansible_ssh_private_key_file=/home/vadim_lnrd/.ssh/id_rsa
